@@ -1,0 +1,12 @@
+# Lock Files
+yarn.lock
+package-lock.json
+
+
+# node_modules
+node_modules
+/node_modules/*
+**/node_modules/*
+
+# Environments
+.env
